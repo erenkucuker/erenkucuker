@@ -24,6 +24,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=erenkucukersoftware&repo=github-readme-stats" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=erenkucukersoftware&repo="laravelhelpersphp" />
 
 ---
