@@ -14,12 +14,9 @@
 </p>
 <div align="center"><h1>📈 My GitHub Statistics</h1></div>
 
-#### 
-
-
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=erenkucukersoftware&show_icons=true&count_private=true&hide_title=true&theme=radical)
-
----
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erenkucukersoftware&repo=github-readme-stats" />
+</a>
 
 
 #### 👷 Check out what I'm currently working on
