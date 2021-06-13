@@ -15,7 +15,7 @@
 <div align="center"><h1>📈 My GitHub Statistics</h1></div>
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erenkucukersoftware&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianbergmann&show_icons=true&count_private=true&hide_title=true" />
 
 
 
