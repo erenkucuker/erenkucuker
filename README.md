@@ -16,7 +16,8 @@
 </div>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=erenkucukersoftware&show_icons=true&count_private=true&hide_title=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenkucukersoftware)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkucukersoftware)](https://github.com/anuraghazra/github-readme-stats" />
+
 
 #### 👷 Check out what I'm currently working on
 
