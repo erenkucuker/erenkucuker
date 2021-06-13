@@ -13,12 +13,9 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucgnxegseifiklrwkupy_qow?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucgnxegseifiklrwkupy_qow?view_as=subscriber" height="30" width="30" /></a>
 </p>
 <div align="center"><h1>📈 My GitHub Statistics</h1>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianbergmann&show_icons=true&count_private=true&hide_title=true" />
-
 </div>
 
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianbergmann&show_icons=true&count_private=true&hide_title=true" />
 
 
 #### 👷 Check out what I'm currently working on
