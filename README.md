@@ -27,4 +27,4 @@
 
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=erenkucukersoftware&repo="laravelhelpersphp" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=erenkucukersoftware&repo=laravelhelpersphp" />
