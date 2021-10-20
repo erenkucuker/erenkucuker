@@ -29,7 +29,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=erenkucukersoftware&repo=shuri&theme=tokyonight" />
 </a>
 
----
+
 <a href="https://github.com/erenkucukersoftware/octo">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=erenkucukersoftware&repo=octo&theme=tokyonight" />
 </a>
