@@ -38,6 +38,4 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=erenkucukersoftware&repo=powerful-php&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/erenkucukersoftware/powerful-php">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=erenkucukersoftware&repo=powerful-php&theme=tokyonight" />
-</a>
+
