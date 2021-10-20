@@ -25,6 +25,9 @@
 #### 👷 Check out what I'm currently working on
 
 
+<a href="https://github.com/erenkucukersoftware/shuri">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=erenkucukersoftware&repo=shuri&theme=tokyonight" />
+</a>
 
 ---
 <a href="https://github.com/erenkucukersoftware/octo">
