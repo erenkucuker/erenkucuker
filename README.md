@@ -12,7 +12,7 @@
 <a href="https://medium.com/@erenkucuker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@erenkucuker" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucgnxegseifiklrwkupy_qow?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucgnxegseifiklrwkupy_qow?view_as=subscriber" height="30" width="30" /></a>
 </p>
-<div><h1>📈 My GitHub Statistics</h1>
+<div align="center"><h1>📈 My GitHub Statistics</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=erenkucukersoftware&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkucukersoftware&layout=compact&theme=tokyonight"/>
 </div>
@@ -25,14 +25,6 @@
 #### 👷 Check out what I'm currently working on
 
 
-<a href="https://github.com/erenkucukersoftware/shuri">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=erenkucukersoftware&repo=shuri&theme=tokyonight" />
-</a>
-
-
-<a href="https://github.com/erenkucukersoftware/octo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=erenkucukersoftware&repo=octo&theme=tokyonight" />
-</a>
 
 <a href="https://github.com/erenkucukersoftware/powerful-php">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=erenkucukersoftware&repo=powerful-php&theme=tokyonight" />
