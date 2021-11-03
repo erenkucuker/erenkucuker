@@ -14,7 +14,7 @@
 </p>
 <div align="center"><h1>📈 My GitHub Statistics</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=erenkucukersoftware&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkucukersoftware&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkucukersoftware&layout=compact&theme=tokyonight" />
 </div>
 
 
