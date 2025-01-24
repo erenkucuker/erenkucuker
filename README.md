@@ -25,7 +25,6 @@ Don't hesitate, say hi [![LinkedIn](https://img.shields.io/badge/Calendly-006BFF
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-[![Fastify](https://img.shields.io/badge/-Fastify-000000?&logo=fastify&logoColor=whites&style=for-the-badge)](#)
 ![Fiber](https://img.shields.io/badge/Fiber-go-black?style=for-the-badge&logo=Fiber-go&badgeColor=010101)
 ![Echo](https://img.shields.io/badge/Echo-go-black?style=for-the-badge&logo=Echo-go&badgeColor=010101)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
